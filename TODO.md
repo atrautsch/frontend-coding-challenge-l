@@ -26,4 +26,4 @@
     * Tailwind for verbose CSS and reusability, other than that CSS class hierarchies with a description for the team when to use what.
 
   * Any other improvements that you feel like could be added.
-    * Update to Options API ;-)
+    * Update from Options API ;-)
